@@ -1,3 +1,5 @@
+[![Build and deploy to pages](https://github.com/gbagnoli/joplin-web-app/actions/workflows/deploy-github-pages.yml/badge.svg)](https://github.com/gbagnoli/joplin-web-app/actions/workflows/deploy-github-pages.yml)
+
 # Joplin Web App
 
 This repository deploys the Joplin web client to https://app.joplincloud.com/ with GitHub pages.
